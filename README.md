@@ -1,2 +1,2 @@
 # PortfolioEric
- Portfolio para trabalho com curriculo incluido.
+ Portfolio - Eric Mota - para trabalho com curriculo incluido.
