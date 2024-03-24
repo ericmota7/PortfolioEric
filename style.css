@@ -281,7 +281,7 @@ main .sobre {
 /* responsivo*/
 
 /* responsivo*/
-@Media(max-width: 768px) {
+@Media(max-width: 992px) {
     .section-div img {
         display: none;
     }
@@ -325,7 +325,7 @@ main .sobre {
 }
 
 
-@Media(max-width: 768px) {
+@Media(max-width: 992px) {
     .sobre img {
         grid-column: 1/-1;
         justify-self: center;
