@@ -281,7 +281,7 @@ main .sobre {
 /* responsivo*/
 
 /* responsivo*/
-@Media(max-width: 768px) {
+@Media(max-width: 600px) {
     .section-div img {
         display: none;
     }
