@@ -321,8 +321,14 @@ main .sobre {
         animation: sobeSecao 8.s ease-in-out forwards;
       }
 
-
-}
+      @media screen and (min-width: 768px) {
+        menu {
+            display: block;
+        }
+        menu > ul > li {
+            display: inline-block;
+        }
+      }
 
 
 @Media(max-width: 992px) {
