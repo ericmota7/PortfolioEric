@@ -281,11 +281,11 @@ main .sobre {
 /* responsivo*/
 
 /* responsivo*/
-@Media(max-width: 992px) {
+@Media   (min-width: 450px) and (max-width: 992px) {
     .section-div img {
         display: none;
     }
-
+}
       .section-div {
         background-image: url(imagemEric.jpg);
         background-repeat: no-repeat;
@@ -331,7 +331,7 @@ main .sobre {
       }
 
 
-@Media(max-width: 992px) {
+@Media (min-width: 450px) and (max-width: 992px) {
     .sobre img {
         grid-column: 1/-1;
         justify-self: center;
